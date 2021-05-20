@@ -82,8 +82,8 @@ $ yarn test:coverage
 
 ## Installed Packages
 
-- [React]- The store used
-- [Redux]- The framework used
+- [React]- The framework used
+- [Redux]- The store data used
 - [React-Navigation-Stack]- The navigation stack used
 - [React-Native-Elements]- The app elements used
 - [Axios]- The api services connection used
